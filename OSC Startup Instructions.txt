@@ -8,3 +8,4 @@ Navigate to the directory storing the "OSC.py" file from the command line
 
 Run the program with "python osc.py"
 
+Additionally download the login and log out files. 
